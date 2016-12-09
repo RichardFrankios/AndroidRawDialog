@@ -10,6 +10,13 @@
 ```
 # 效果图
 ![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-51-59-636_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-02-839_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-08-045_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-11-992_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-15-640_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-20-025_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-52-24-018_sample.wsj.com.png)
+
 
 
 
