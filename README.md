@@ -9,7 +9,7 @@
   6. 自定义TitleView Dialog.
 ```
 # 效果图
-![主页](file:///Users/frankwang/Downloads/Screenshot_2016-12-09-14-51-59-636_sample.wsj.com.png)
+![](https://github.com/RichardFrankios/AndroidRawDialog/blob/master/screencut/Screenshot_2016-12-09-14-51-59-636_sample.wsj.com.png)
 
 
 
