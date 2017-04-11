@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    android:id="@+id/activity_main"
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.base.androidrawdialog.MainActivity">
+    android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"/>
-</RelativeLayout>
+    <Button
+        android:onClick="normalTextDialog"
+        style="@style/btn_main"
+        android:text="普通提示Dialog"/>
+
+    <Button
+        android:onClick="listDialog"
+        style="@style/btn_main"
+        android:text="列表Dialog"/>
+
+    <Button
+        android:onClick="singleChoice"
+        style="@style/btn_main"
+        android:text="单选列表Dialog"/>
+
+    <Button
+        android:onClick="multiChoice"
+        style="@style/btn_main"
+        android:text="多选列表Dialog"/>
+
+    <Button
+        android:onClick="customContentView"
+        style="@style/btn_main"
+        android:text="自定义ContentView Dialog"/>
+
+    <Button
+        android:onClick="customTitleView"
+        style="@style/btn_main"
+        android:text="自定义TitleView Dialog"/>
+
+
+
+
+</LinearLayout>

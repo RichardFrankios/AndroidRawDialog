@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">AndroidRawDialog</string>
+    <string name="app_name">Android原生Dialog</string>
+
+
+    <array name="color_arrays">
+        <item>红色</item>
+        <item>绿色</item>
+        <item>蓝色</item>
+        <item>黑色</item>
+        <item>白色</item>
+        <item>紫色</item>
+    </array>
+
 </resources>
